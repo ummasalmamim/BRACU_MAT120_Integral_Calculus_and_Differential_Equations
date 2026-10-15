@@ -7,8 +7,11 @@
 ![SciPy](https://img.shields.io/badge/SciPy-Integration%20%26%20ODEs-8CAAE6?logo=scipy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-11557C)
 
-A collection of laboratory work, a quiz, and a group project completed for **MAT120: Mathematics II — Integral Calculus and Differential Equations** at **BRAC University**, Department of Mathematics and Natural Sciences. The notebooks use Python to explore symbolic and numerical methods for integration and ordinary differential equations.
+**BRAC University · Department of Mathematics and Natural Sciences (MNS)**
 
+This repository contains my lab work, work, a group project and practice material for the course **MAT120: Mathematics II — Integral Calculus and Differential Equations.** The notebooks use Python to explore symbolic and numerical methods for integration and ordinary differential equations.
+
+**Author:** [Umma Salma Mim](https://github.com/ummasalmamim)
 ---
 
 ## Table of Contents
