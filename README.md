@@ -177,7 +177,7 @@ This repository is shared for **learning and reference purposes only**. Students
 Undergraduate Student, BRAC University
 GitHub: [@ummasalmamim](https://github.com/ummasalmamim)
 
-**Group Project (Group G) collaborator:** Faishal Monir
+**Group Project (Group G) collaborator:** Faishal Monir**
 GitHub: [@faishalmonir](https://github.com/Faishal-Monir)
 
 ---
@@ -185,7 +185,7 @@ GitHub: [@faishalmonir](https://github.com/Faishal-Monir)
 ## Acknowledgements
 
 - Department of Mathematics and Natural Sciences, BRAC University, for the course design and laboratory guidance
-- Course instructors and lab faculty of MAT120, Summer 2023
+- Course instructor Muhammad Ali Ayub Towhidi Sir and lab faculty of MAT120, Summer 2023
 - The open-source developers of SymPy, NumPy, SciPy, Matplotlib, and Jupyter
 
 ---
