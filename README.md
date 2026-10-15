@@ -178,6 +178,7 @@ Undergraduate Student, BRAC University
 GitHub: [@ummasalmamim](https://github.com/ummasalmamim)
 
 **Group Project (Group G) collaborator:** Faishal Monir
+GitHub: [@faishalmonir](https://github.com/Faishal-Monir)
 
 ---
 
