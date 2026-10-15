@@ -12,6 +12,7 @@
 This repository contains my lab work, work, a group project and practice material for the course **MAT120: Mathematics II — Integral Calculus and Differential Equations.** The notebooks use Python to explore symbolic and numerical methods for integration and ordinary differential equations.
 
 **Author:** [Umma Salma Mim](https://github.com/ummasalmamim)
+
 ---
 
 ## Table of Contents
